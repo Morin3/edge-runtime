@@ -24,7 +24,7 @@
     "web"
   ],
   "devDependencies": {
-    "tsup": "8"
+    "tsup": "8.5.1"
   },
   "engines": {
     "node": ">=16"
